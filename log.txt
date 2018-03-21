@@ -1,0 +1,11 @@
+commit b4bab543cfe1ca310b7698521e9dd484be5f156b (HEAD -> logging, origin/master, master)
+Author: unknown <matej.bogdanoski@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:40:31 2018 +0100
+
+    modify l1.txt
+
+commit 4c9947bbaca0f8db828c74d21c2f71100aa8d92b
+Author: unknown <matej.bogdanoski@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:38:17 2018 +0100
+
+    Initial commit
